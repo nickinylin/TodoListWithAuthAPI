@@ -1,0 +1,11 @@
+C:\Users\Nicki\source\repos\TodoWebAPI\TodoWebAPI\bin\Debug\netcoreapp2.0\TodoWebAPI.deps.json
+C:\Users\Nicki\source\repos\TodoWebAPI\TodoWebAPI\bin\Debug\netcoreapp2.0\TodoWebAPI.runtimeconfig.json
+C:\Users\Nicki\source\repos\TodoWebAPI\TodoWebAPI\bin\Debug\netcoreapp2.0\TodoWebAPI.runtimeconfig.dev.json
+C:\Users\Nicki\source\repos\TodoWebAPI\TodoWebAPI\bin\Debug\netcoreapp2.0\TodoWebAPI.dll
+C:\Users\Nicki\source\repos\TodoWebAPI\TodoWebAPI\bin\Debug\netcoreapp2.0\TodoWebAPI.pdb
+C:\Users\Nicki\source\repos\TodoWebAPI\TodoWebAPI\obj\Debug\netcoreapp2.0\TodoWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Nicki\source\repos\TodoWebAPI\TodoWebAPI\obj\Debug\netcoreapp2.0\TodoWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Nicki\source\repos\TodoWebAPI\TodoWebAPI\obj\Debug\netcoreapp2.0\TodoWebAPI.AssemblyInfoInputs.cache
+C:\Users\Nicki\source\repos\TodoWebAPI\TodoWebAPI\obj\Debug\netcoreapp2.0\TodoWebAPI.AssemblyInfo.cs
+C:\Users\Nicki\source\repos\TodoWebAPI\TodoWebAPI\obj\Debug\netcoreapp2.0\TodoWebAPI.dll
+C:\Users\Nicki\source\repos\TodoWebAPI\TodoWebAPI\obj\Debug\netcoreapp2.0\TodoWebAPI.pdb
